@@ -1,2 +1,10 @@
 .idea/
 target/
+
+lch/*
+!lch/file2
+#! -> not을 의미한다.
+
+#lch/**
+#경로상의 모든폴더
+
